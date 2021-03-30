@@ -1,3 +1,5 @@
+// FCFS Algorithm
+
 #include <stdio.h>
 
 int i; // global variable
